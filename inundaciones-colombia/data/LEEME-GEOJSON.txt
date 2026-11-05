@@ -1,0 +1,1 @@
+CAPAS INCORPORADAS: municipios.geojson (1122 entidades) y departamentos.geojson (34 entidades). Coincidencias territoriales verificadas: 180/180. El mapa muestra áreas municipales coloreadas, no polígonos reales de inundación.

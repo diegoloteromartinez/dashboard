@@ -1,0 +1,18 @@
+{
+  "municipios_excel": 180,
+  "departamentos_excel": 9,
+  "hectareas_inundadas": 285168.51661506447,
+  "municipios_geojson": 1122,
+  "departamentos_geojson": 34,
+  "coincidencias_unicas": 180,
+  "sin_coincidencia": [],
+  "atributos_municipales": [
+    "MpNombre",
+    "MpCodigo",
+    "Depto"
+  ],
+  "atributos_departamentales": [
+    "DeNombre",
+    "DeCodigo"
+  ]
+}
